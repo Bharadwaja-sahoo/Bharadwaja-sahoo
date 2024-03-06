@@ -3,7 +3,7 @@
 
 ###
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Bharadwaja-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="Bharadwaja-sahoo" /> </p>
-<img align="center" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" height="150" src="[https://i.imgflip.com/65efzo.gif](https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/425335459_1499490567299203_3486122357462979462_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hNFxkY1o4WEAX8zBW-c&_nc_ht=scontent.fhyd10-1.fna&oh=00_AfAC_080zCi3Znks2N2civbuudRz9udWcK6h7i-_GHQKTw&oe=65ECD481)"  />
 
 ###
 
