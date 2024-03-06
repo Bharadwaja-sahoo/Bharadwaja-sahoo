@@ -4,18 +4,13 @@
 ###
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Bharadwaja-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="Bharadwaja-sahoo" /> </p>
 <div align="center">
-  <img align="center" height="220" src="https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/425335459_1499490567299203_3486122357462979462_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hNFxkY1o4WEAX8zBW-c&_nc_ht=scontent.fhyd10-1.fna&oh=00_AfAC_080zCi3Znks2N2civbuudRz9udWcK6h7i-_GHQKTw&oe=65ECD481"  />
-  <img align="center" height="220" src="https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/419208496_1475245946390332_6964932691934743272_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=irS_4767QyYAX8FO4q7&_nc_ht=scontent.fhyd10-1.fna&oh=00_AfBYf_ByThbZi49hCZTz7aRnbS2UvSujpfiYStwQyBFdrg&oe=65ED1B83"/>
-  <img align="center" height="220" src="https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/416000683_1469286453652948_4724231890595286665_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=zXdkhvoqu1sAX9PzIkd&_nc_oc=AQm3VyTNoMUeJv-FTWDSlZL4ll39yLk4kNaPiAGAsWPZki-l_D93I-fxv_djG4ngu2U&_nc_ht=scontent.fhyd10-1.fna&oh=00_AfDT6KpXoq9NDG4pTWwHYbevjeOvL-ubbd8L6-bxOc2pKA&oe=65ED7579" />
+  <img align="center" height="150" src="https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/425335459_1499490567299203_3486122357462979462_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hNFxkY1o4WEAX8zBW-c&_nc_ht=scontent.fhyd10-1.fna&oh=00_AfAC_080zCi3Znks2N2civbuudRz9udWcK6h7i-_GHQKTw&oe=65ECD481"  />
+  <img align="center" height="150" src="https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/419208496_1475245946390332_6964932691934743272_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=irS_4767QyYAX8FO4q7&_nc_ht=scontent.fhyd10-1.fna&oh=00_AfBYf_ByThbZi49hCZTz7aRnbS2UvSujpfiYStwQyBFdrg&oe=65ED1B83"/>
+  <img align="center" height="150" src="https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/416000683_1469286453652948_4724231890595286665_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=zXdkhvoqu1sAX9PzIkd&_nc_oc=AQm3VyTNoMUeJv-FTWDSlZL4ll39yLk4kNaPiAGAsWPZki-l_D93I-fxv_djG4ngu2U&_nc_ht=scontent.fhyd10-1.fna&oh=00_AfDT6KpXoq9NDG4pTWwHYbevjeOvL-ubbd8L6-bxOc2pKA&oe=65ED7579" />
 </div>
-
 ###
 
-
-
 ###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bharadwaja-sahoo&theme=nord" alt="Bharadwaja-sahoo" /></a> </p>
-
 <div> <a href="https://www.linkedin.com/in/bharadwaja-sahoo-361369257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Bharadwaja-sahoo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/rick_u_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -43,4 +38,6 @@
 <p align="center">&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bharadwaja-sahoo&show_icons=true&locale=en&theme=dark" alt="Bharadwaja-sahoo" /></p>
 
 <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharadwaja-sahoo&theme=dark" alt="Bharadwaja-sahoo" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bharadwaja-sahoo&theme=nord" alt="Bharadwaja-sahoo" /></a> </p>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
