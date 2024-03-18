@@ -8,9 +8,7 @@
   <img align="center" height="150" src="https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/419208496_1475245946390332_6964932691934743272_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=irS_4767QyYAX8FO4q7&_nc_ht=scontent.fhyd10-1.fna&oh=00_AfBYf_ByThbZi49hCZTz7aRnbS2UvSujpfiYStwQyBFdrg&oe=65ED1B83"/>
   <img align="center" height="150" src="https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/416000683_1469286453652948_4724231890595286665_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=zXdkhvoqu1sAX9PzIkd&_nc_oc=AQm3VyTNoMUeJv-FTWDSlZL4ll39yLk4kNaPiAGAsWPZki-l_D93I-fxv_djG4ngu2U&_nc_ht=scontent.fhyd10-1.fna&oh=00_AfDT6KpXoq9NDG4pTWwHYbevjeOvL-ubbd8L6-bxOc2pKA&oe=65ED7579" />
 </div>
-###
 
-###
 <div> <a href="https://www.linkedin.com/in/bharadwaja-sahoo-361369257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Bharadwaja-sahoo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/rick_u_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
